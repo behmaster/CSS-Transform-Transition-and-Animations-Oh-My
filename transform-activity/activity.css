@@ -1,3 +1,7 @@
 main {
-
+  transform: skew(-10deg, -10deg);
+}
+body {
+  width: 1000px;
+  margin: auto;
 }
